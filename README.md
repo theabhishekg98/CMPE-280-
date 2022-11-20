@@ -15,4 +15,4 @@ Running Server:
 2. Run "node index.js"
 
 Run localhost:3000 in the browser window </br>
-Server runs on port 1000
+Server runs on port 1000.
