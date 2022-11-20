@@ -12,5 +12,5 @@ Running Server:
 1. Navigate to backend folder and run "npm install"
 2. Run "node index.js"
 
-Run localhost:3000 in the browser window
+Run localhost:3000 in the browser window </br>
 Server runs on port 1000
