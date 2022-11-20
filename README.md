@@ -2,7 +2,7 @@
 
 Link to Project Hosted on EC2: http://54.144.235.193:3000/
 
-Team Members: Abhishek Ganesan, Manikanta Pradyumna Raparti, Rooppesh Sarankapani, Supreeth Chandrasekhar
+Team members: Abhishek Ganesan, Manikanta Pradyumna Raparti, Rooppesh Sarankapani, and Supreeth Chandrasekhar.
 
 Running Client:
 
@@ -15,4 +15,7 @@ Running Server:
 2. Run "node index.js"
 
 Run localhost:3000 in the browser window </br>
-Server runs on port 1000.
+Server runs on port 1000
+
+Front End developed on reactJS, backend server spun on express (nodeJS).
+webpack for bundling the module dependencies.
