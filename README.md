@@ -2,7 +2,7 @@
 
 Link to Project Hosted on EC2: http://54.144.235.193:3000/
 
-Team members: Abhishek Ganesan, Manikanta Pradyumna Raparti, Rooppesh Sarankapani, Supreeth Chandrasekhar
+Team Members: Abhishek Ganesan, Manikanta Pradyumna Raparti, Rooppesh Sarankapani, Supreeth Chandrasekhar
 
 Running Client:
 
