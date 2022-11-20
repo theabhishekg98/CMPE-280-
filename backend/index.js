@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json({ extended: false }));
 
 app.use(function (req, res, next) {
-  res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000");
+  res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Credentials", "true");
   res.setHeader(
     "Access-Control-Allow-Methods",
@@ -28,6 +28,6 @@ app.use(require("./routes/agriservices"));
 app.use(require("./routes/importservices"));
 app.use(require("./routes/yieldservices"));
 
-const PORT = 1000;
+const PORT = 7000;
 //Server code will be running on port 5000
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`));

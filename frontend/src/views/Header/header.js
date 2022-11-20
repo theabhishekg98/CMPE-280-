@@ -1,5 +1,4 @@
 import { useSelector, useDispatch } from "react-redux";
-import { ReactComponent as Logo } from "../../logo.svg";
 import Badge from "@mui/material/Badge";
 import { bindActionCreators } from "redux";
 import AppBar from "@mui/material/AppBar";
@@ -42,9 +41,9 @@ function Header(props) {
       >
         <Toolbar color="white">
           <Typography variant="h6" noWrap component="div">
-            <Logo height="50px" width="50px" />
-          </Typography>
-          <Typography fontWeight="Bold" color="Black">
+            
+	  </Typography>
+          <Typography fontWeight="Bold" color="Green">
             Macro Economic & Food Security
           </Typography>
           &nbsp;
